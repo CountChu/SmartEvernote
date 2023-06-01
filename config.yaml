@@ -1,0 +1,11 @@
+userName: # Your account name of Evernote.
+authToken: # Your token requested in Evernote website.
+notebook: # Your note book where the daily log resides.
+days:
+  '0': 'Su'
+  '1': 'M'
+  '2': 'T'
+  '3': 'W'
+  '4': 'R' 
+  '5': 'F' 
+  '6': 'S'  
